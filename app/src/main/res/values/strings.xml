@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stories</string>
+    <string name="signup">Registrasi</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Discover diverse lifestyles, and inspire each other with your own stories.</string>
+    <string name="title_welcome_page">Welcome to StoryApp!</string>
+    <string name="empty_image_warning"> Choose Image First!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="not_found"> Location is nowhere to be found!</string>
+    <string name="upload_success"> Success Upload Story</string>
+</resources>
